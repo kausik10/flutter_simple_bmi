@@ -10,7 +10,7 @@ Install Flutter in your device. Clone it and Run it.
 
 #### Adding the JetBrainsMono font
 
-- Download the `JetBrains` fonts from their [github repository](https://github.com/JetBrains)
+- Download the `JetBrains` fonts from their [github repository](https://github.com/JetBrains){:target="\_blank"}
 - Create a folder named `assets` and inside that create `fonts` folder and paste the `JetBrainsMonoNL-Regular.ttf` file
 - Go to `pubspec.yaml` And write
 
@@ -27,9 +27,9 @@ flutter:
 
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab){:target="\_blank"}
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook){:target="\_blank"}
 
 For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
+[online documentation](https://docs.flutter.dev/){:target="\_blank"}, which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
