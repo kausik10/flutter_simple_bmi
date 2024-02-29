@@ -10,7 +10,7 @@ Install Flutter in your device. Clone it and Run it.
 
 #### Adding the JetBrainsMono font
 
-- Download the `JetBrains` fonts from their github repository `https://github.com/JetBrains`
+- Download the `JetBrains` fonts from their [github repository](https://github.com/JetBrains)
 - Create a folder named `assets` and inside that create `fonts` folder and paste the `JetBrainsMonoNL-Regular.ttf` file
 - Go to `pubspec.yaml` And write
 
